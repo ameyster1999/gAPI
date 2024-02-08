@@ -11,18 +11,18 @@ A simple Go program that demonstrates the creation of a basic HTTP server. This 
    cd your-repository
 
    ```
-2.### init go package :
-   ``bash
+2. ### init go package :
+   ``
     go mod init  github.com/ameyster1999/gAPI
-   ``bash
+   ``
 3.run the go program :
- ```bash
+ ``
     go run main.go
-   ```bash
+   ``
 4. Test your API:
-    ```
+    ``
      curl localhost:8011/welcome
-    ```
+    ``
 
 
 
