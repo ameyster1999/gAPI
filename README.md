@@ -4,7 +4,7 @@ A simple Go program that demonstrates the creation of a basic HTTP server. This 
 
 ## Usage
 
-1.### Clone the repository:
+1. ### Clone the repository:
 
    ```
    git clone https://github.com/your-username/your-repository.git
@@ -15,14 +15,17 @@ A simple Go program that demonstrates the creation of a basic HTTP server. This 
    ``
     go mod init  github.com/ameyster1999/gAPI
    ``
-3.run the go program :
- ``
+3. ### run the go program :
+   ``
     go run main.go
    ``
-4. Test your API:
+4. ### Test your API:
     ``
      curl localhost:8011/welcome
     ``
+    or you can hit endpoint on  browser or postman 
+Happy Coding Looks Like I have made my first api go 
+
 
 
 
