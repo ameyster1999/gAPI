@@ -6,7 +6,7 @@ import (
 )
 
 type Message struct {
-	Greeting string `json:"greeting"`
+	Greeting string `json:"Greeting"`
 }
 
 func getGreetingHandler(w http.ResponseWriter, r *http.Request) {
