@@ -22,6 +22,10 @@ A simple Go program that demonstrates the creation of a basic HTTP server. This 
      curl localhost:8011/welcome
     ``
     or you can hit endpoint on  browser or postman 
+5.  ### run the test 
+    ``
+     go test -v main_test.go
+    ``
 
 
 # Happy Coding Looks Like I have made my first api in  go 
