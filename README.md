@@ -1,4 +1,4 @@
-# Go HTTP Server Example
+# Greeting Simple API
 
 A simple Go program that demonstrates the creation of a basic HTTP server. This server responds to requests to the "/message" endpoint by returning a JSON-encoded greeting message.
 
