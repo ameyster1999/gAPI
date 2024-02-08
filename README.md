@@ -4,21 +4,17 @@ A simple Go program that demonstrates the creation of a basic HTTP server. This 
 
 ## Usage
 
-1. Clone the repository:
+1.### Clone the repository:
 
    ```
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
 
    ```
-
-   cd your-repository
-   ```bash
-
-2.init go package :
-   ```bash
+2.### init go package :
+   ``bash
     go mod init  github.com/ameyster1999/gAPI
-   ```bash
+   ``bash
 3.run the go program :
  ```bash
     go run main.go
