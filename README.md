@@ -5,15 +5,9 @@ A simple Go program that demonstrates the creation of a basic HTTP server. This 
 ## Usage
 
 1. ### Clone the repository:
-  git clone https://github.com/your-username/your-repository.git
-  In my case:
-
-
-
    ```
    git clone https://github.com/ameyster1999/gAPI.git
    cd gAPI
-
    ```
 2. ### init go package :
    ``
