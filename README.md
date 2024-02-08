@@ -20,6 +20,10 @@ A simple Go program that demonstrates the creation of a basic HTTP server. This 
     go run main.go
    ```bash
 4. Test your API:
+    ```
+     curl localhost:8011/welcome
+    ```
+
 
 
 
